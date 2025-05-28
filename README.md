@@ -28,4 +28,4 @@ Create a MySQL database and import the provided SQL file.
 
 Update database credentials in includes/config.php.
 
-Run the project via http://localhost/dynaclass in your browser.
+Run the project via local host : http://studenrresult/ in your browser.
