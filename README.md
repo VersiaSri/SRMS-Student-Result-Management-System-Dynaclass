@@ -1,4 +1,4 @@
-**Dynaclass - Student Result Management System (SRMS)**
+**#Dynaclass - Student Result Management System (SRMS)**
 
 
 Dynaclass is a web-based Student Result Management System built with Core PHP, MySQL, HTML, CSS, and JavaScript. It helps manage students, subjects, classes, and results efficiently.
